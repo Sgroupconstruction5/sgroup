@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="400" viewBox="0 0 300 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Buildings -->
+  <g fill="#006B77">
+    <path d="M120 80h60v220h-60z"/>
+    <path d="M90 120h30v180h-30z"/>
+    <path d="M180 100h30v200h-30z"/>
+  </g>
+  
+  <!-- Swoosh -->
+  <path fill="#39B7E1" d="M60 150C120 100 180 90 240 150C180 210 120 220 60 150z"/>
+  
+  <!-- Text -->
+  <text x="50" y="350" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#006B77">
+    S GROUP
+  </text>
+</svg>

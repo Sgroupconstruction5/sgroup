@@ -102,7 +102,7 @@ const Footer = () => {
             <ContactItem>
               <PhoneIcon />
               <Typography variant="body2">
-                +1 234 567 890
+                +91 9494807469
               </Typography>
             </ContactItem>
             <ContactItem>

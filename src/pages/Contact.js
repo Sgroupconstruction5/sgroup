@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+/*  */import React, { useState, useRef } from 'react';
 import {
   Box,
   Container,
@@ -217,7 +217,7 @@ const Contact = () => {
                   <Box>
                     <Typography variant="h6">Phone</Typography>
                     <Typography variant="body1" color="text.secondary">
-                      +1 234 567 890
+                    +91 9494807469
                     </Typography>
                   </Box>
                 </ContactInfoItem>
